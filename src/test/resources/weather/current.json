@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 5.04,
+    "lat": 52.14
+  },
+  "weather": [{
+    "id": 310,
+    "main": "Drizzle",
+    "description": "light intensity drizzle rain",
+    "icon": "09d"
+  }, {
+    "id": 500,
+    "main": "Rain",
+    "description": "light rain",
+    "icon": "10d"
+  }],
+  "base": "stations",
+  "main": {
+    "temp": 283.15,
+    "pressure": 1005,
+    "humidity": 100,
+    "temp_min": 283.15,
+    "temp_max": 283.15
+  },
+  "visibility": 2800,
+  "wind": {
+    "speed": 9.8,
+    "deg": 230,
+    "gust": 14.9
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1490002020,
+  "sys": {
+    "type": 1,
+    "id": 5204,
+    "message": 0.0218,
+    "country": "NL",
+    "sunrise": 1489988478,
+    "sunset": 1490032436
+  },
+  "id": 2751316,
+  "name": "Maarssen",
+  "cod": 200
+}
